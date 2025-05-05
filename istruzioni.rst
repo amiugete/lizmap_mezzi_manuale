@@ -65,7 +65,7 @@ Una volta selezionato il livello da filtrare e la data, sulla mappa saranno visi
 VISUALIZZAZIONE GIORNALIERA SERVIZI CONSUNTIVATI
 ------------------------------------------
 
-3. Per prima cosa è necessario attivare il dato da consultare semplicemnete spuntando la casella corrispondente nell'albero dei layer.
+3. Per prima cosa è necessario attivare il dato da consultare semplicemente spuntando la casella corrispondente nell'albero dei layer.
 
 .. note:: E` possibile visualizzare contemporaneamente i dati della consuntivazione della raccolta e dello spazzamento ma per quanto riguarda la raccolta è possibile visualizzare solo una tipologia di rifiuto alla volta
 
