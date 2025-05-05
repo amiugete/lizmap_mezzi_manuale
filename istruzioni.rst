@@ -40,19 +40,21 @@ Una volta selezionato comune e relativa via, la mappa verrà zoomata e centrata 
 RICERCA PER DATA POSIZIONE MEZZI
 ------------------------------------------
 
-2. E' necessario attivare lo strumento cliccando sull'icona della toolbar (barra laterale a sinistra dello schermo) evidenziata in giallo nell'immagine sotto. 
+2. E` necessario attivare lo strumento cliccando sull'icona della toolbar (barra laterale a sinistra dello schermo) evidenziata in giallo nell'immagine sotto. 
 Lo strumento consente di filtrare per data o range di date i dati degli ultimi 60 giorni relativi alla posizione dei mezzi di raccolta (svuotamenti) o delle spazzatrici con spazzole in funzione.
 
-Selezionare il dato da consultare ovvero posizione dei mezzi di raccolta (svuotamenti) o posizione delle spazzatrici in funzione. Selezionare successivamente la data per la quale consultare i dati. E' possibile selezionare un singolo giorno indicando la stessa data di inizio e fine oppure selezionare più giorni indicando una data di inizio e una di fine.
+Selezionare il dato da consultare ovvero posizione dei mezzi di raccolta (svuotamenti) o posizione delle spazzatrici in funzione. Selezionare successivamente la data per la quale consultare i dati. E` possibile selezionare un singolo giorno indicando la stessa data di inizio e fine oppure selezionare più giorni indicando una data di inizio e una di fine.
 La data può essere selezionata utilizzando la barra temporale oppure dal calendario che si apre cliccando sulla casella di testo riportante la data stessa.
 
 .. image:: img/filtro_tool.png
     :align: center
 
-Una volta selezionato il livello da filtrare e la data, sulla mappa saranno visibili solo i dati che rispondono alle opzioni selezionate. E' naturalmente possibile visualizzare tutti i dati rimuovendo il filtro, è sufficiente cliccare sulla x evidenziata in giallo nell'immagine sotto.
+Una volta selezionato il livello da filtrare e la data, sulla mappa saranno visibili solo i dati che rispondono alle opzioni selezionate. E` naturalmente possibile visualizzare tutti i dati rimuovendo il filtro, è sufficiente cliccare sulla x evidenziata in giallo nell'immagine sotto.
 
 .. image:: img/filtro_result.png
     :align: center
+
+|
 
 .. warning:: Trattandosi di una considerevole mole di dati, lo strumento potrebbe impiegare qualche secondo per mostrare il risultato
 
@@ -63,14 +65,15 @@ VISUALIZZAZIONE GIORNALIERA SERVIZI CONSUNTIVATI
 
 3. Per prima cosa è necessario attivare il da to da consultare semplicemnete spuntando la casella corrispondente nell'albero dei layer.
 
-.. note:: E' possibile visualizzare contemporaneamente i dati della consuntivazione della raccolta e dello spazzamento ma per quanto riguarda la raccolta è possibile visualizzare solo una tipologia di rifiuto alla volta
+.. note:: E` possibile visualizzare contemporaneamente i dati della consuntivazione della raccolta e dello spazzamento ma per quanto riguarda la raccolta è possibile visualizzare solo una tipologia di rifiuto alla volta
 
 Attivare lo strumento cliccando sull'icona della toolbar (barra laterale a sinistra dello schermo) evidenziata in giallo nell'immagine sotto e utilizzare i bottoni *Zoom precedente* e *Zoom successivo* o la barra temporale per visualizzare i dati in base al giorno. Utilizzando il tasto *Play*, la data cambierà automaticamente.
-Sulla mappa saranno visibili solo i dati disponibili per la data selezionata. E' naturalmente possibile visualizzare tutti i dati rimuovendo il filtro, è sufficiente chiudere lo strumento cliccando sulla x o sull'icona della toolbar evidenziate in giallo nell'immagine sotto.
+Sulla mappa saranno visibili solo i dati disponibili per la data selezionata. E` naturalmente possibile visualizzare tutti i dati rimuovendo il filtro, è sufficiente chiudere lo strumento cliccando sulla x o sull'icona della toolbar evidenziate in giallo nell'immagine sotto.
 
 .. image:: img/time.png
     :align: center
 
+|
 
 
 
