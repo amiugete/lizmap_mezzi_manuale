@@ -49,6 +49,8 @@ La data può essere selezionata utilizzando la barra temporale oppure dal calend
 .. image:: img/filtro_tool.png
     :align: center
 
+|
+
 Una volta selezionato il livello da filtrare e la data, sulla mappa saranno visibili solo i dati che rispondono alle opzioni selezionate. E` naturalmente possibile visualizzare tutti i dati rimuovendo il filtro, è sufficiente cliccare sulla x evidenziata in giallo nell'immagine sotto.
 
 .. image:: img/filtro_result.png
@@ -63,7 +65,7 @@ Una volta selezionato il livello da filtrare e la data, sulla mappa saranno visi
 VISUALIZZAZIONE GIORNALIERA SERVIZI CONSUNTIVATI
 ------------------------------------------
 
-3. Per prima cosa è necessario attivare il da to da consultare semplicemnete spuntando la casella corrispondente nell'albero dei layer.
+3. Per prima cosa è necessario attivare il dato da consultare semplicemnete spuntando la casella corrispondente nell'albero dei layer.
 
 .. note:: E` possibile visualizzare contemporaneamente i dati della consuntivazione della raccolta e dello spazzamento ma per quanto riguarda la raccolta è possibile visualizzare solo una tipologia di rifiuto alla volta
 
