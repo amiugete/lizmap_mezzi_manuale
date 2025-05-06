@@ -66,7 +66,7 @@ Una volta selezionato comune e relativa via, la mappa verrà zoomata e centrata 
 VISUALIZZAZIONE GIORNALIERA SERVIZI CONSUNTIVATI E POSIZIONE MEZZI 
 ------------------------------------------
 
-3. Per prima cosa è necessario attivare il dato da consultare semplicemente spuntando la casella corrispondente nell'albero dei layer.
+2. Per prima cosa è necessario attivare il dato da consultare semplicemente spuntando la casella corrispondente nell'albero dei layer.
 
 .. note:: E` possibile visualizzare contemporaneamente i dati della consuntivazione della raccolta e dello spazzamento ma per quanto riguarda la raccolta è possibile visualizzare solo una tipologia di rifiuto alla volta
 
